@@ -1,2 +1,1 @@
-# rupesh-cv
-Personal website
+# Rupesh CV
